@@ -42,7 +42,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Ilkley Gazette: [Work goes on to try to give residents better access to GPs](http://www.ilkleygazette.co.uk/news/16388004.work-goes-on-to-try-to-give-residents-better-access-to-gps/) *1 August 2018*
 * Liverpool Echo [Why is it so hard to get a GP out of hours in Merseyside?](https://www.liverpoolecho.co.uk/news/liverpool-news/hard-gp-out-hours-merseyside-14978832) *2 August 2018*
 
-* The story was also used by the BBC News Channel, BBC Radio 5 Live, [BBC Wales](https://www.bbc.co.uk/news/uk-wales-44982690), BBC Hereford & Worcester, BBC Somerset, BBC Surrey, BBC Radio Nottingham, BBC Radio Lincolnshire, BBC Radio Kent, BBC Cumbria, BBC Radio Humberside
+* The story was also used by the BBC News Channel, BBC Radio 5 Live, [BBC Wales](https://www.bbc.co.uk/news/uk-wales-44982690), [BBC Radio Merseryside](https://drive.google.com/file/d/19j87oTXFIfz6J648osCQIfwQr-5SVlxi/view?usp=sharing), [BBC Radio Kent](https://drive.google.com/file/d/1b-WHWfa0X1prN8DPz-zGt7haxMUfbkIp/view?usp=sharing), BBC Hereford & Worcester, BBC Somerset, BBC Surrey, BBC Radio Nottingham, BBC Radio Lincolnshire, BBC Cumbria, BBC Radio Humberside
 
 
 ## Get the data
