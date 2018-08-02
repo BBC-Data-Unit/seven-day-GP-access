@@ -31,10 +31,14 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Nantwich News: [Thousands of GP patients in South Cheshire still without full out of hours access](https://thenantwichnews.co.uk/2018/07/30/thousands-of-gp-patients-in-south-cheshire-still-without-full-out-of-hours-access/) *30 July 2018*
 * Knutsford Guardian: [Knutsford patients set to get more time to access GP services](http://www.knutsfordguardian.co.uk/news/16385877.knutsford-patients-set-to-get-more-time-to-access-gp-services/) *30 July 2018*
 * The Yorkshire Post: [Millions still lack out-of-hours access to GPs](https://www.yorkshirepost.co.uk/news/millions-still-lack-out-of-hours-access-to-gps-1-9274870) *30 July 2018*
-
-
+* Portsmouth: The News: [New Portsmouth hub ends patients’ lack of seven-day GP access](https://www.portsmouth.co.uk/news/health/new-portsmouth-hub-ends-patients-lack-of-seven-day-gp-access-1-8583668) *30 July 2018*
+* Kent Online: [Kent patients struggle to book GP appointments outside working hours](http://www.kentonline.co.uk/medway/news/when-you-get-an-answer-all-the-appointments-have-gone-187175/) *30 July 2018*
+* Dorset: Daily Echo: [Dorset CCG 'on plan' to have all GP surgeries offer extended hours by October](http://www.bournemouthecho.co.uk/news/16385446.dorset-ccg-on-plan-to-have-all-gp-surgeries-offer-extended-hours-by-october/) *30 July 2018*
+* Ledbury Reporter: [Herefordshire among top performing areas for GP access at evenings and weekends](http://www.ledburyreporter.co.uk/news/16388610.herefordshire-among-top-performing-areas-for-gp-access-at-evenings-and-weekends/) *31 July 2018*
 * Dewsbury Reporter: [North Kirklees CCG to roll out evening and weekend GP appointments](https://www.dewsburyreporter.co.uk/news/north-kirklees-ccg-to-roll-out-evening-and-weekend-gp-appointments-1-9278226) *31 July 2018*
 * Devon Live: [Seven day GP access is still yet to become reality](https://www.devonlive.com/news/devon-news/seven-day-gp-access-still-1844975) *31 July 2018*
+* Northumberland Gazette: [REVEALED: Patients' access to out-of-hours GPs in Northumberland](https://www.northumberlandgazette.co.uk/news/health/revealed-patients-access-to-out-of-hours-gps-in-northumberland-1-9278538) *31 July 2018*
+* Northampton Chronicle & Echo: [Seven-day GP access is a long way off in Northamptonshire as study reveals only two surgeries at Nene CCG offer 'full provision'](https://www.northamptonchron.co.uk/news/seven-day-gp-access-is-a-long-way-off-in-northamptonshire-as-study-reveals-only-two-surgeries-at-nene-ccg-offer-full-provision-1-8584600) *31 July 2018*
 * Ilkley Gazette: [Work goes on to try to give residents better access to GPs](http://www.ilkleygazette.co.uk/news/16388004.work-goes-on-to-try-to-give-residents-better-access-to-gps/) *1 August 2018*
 * Liverpool Echo [Why is it so hard to get a GP out of hours in Merseyside?](https://www.liverpoolecho.co.uk/news/liverpool-news/hard-gp-out-hours-merseyside-14978832) *2 August 2018*
 
